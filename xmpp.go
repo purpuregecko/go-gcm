@@ -8,6 +8,7 @@ import (
 	"sync"
 	"time"
 
+	xmpp "github.com/mattn/go-xmpp"
 	"github.com/pborman/uuid"
 	log "github.com/sirupsen/logrus"
 )
